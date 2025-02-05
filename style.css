@@ -38,6 +38,10 @@ header h1 {
   color: #ccc;
 }
 
+.edit-mode {
+  color: #ccc;
+}
+
 /* Form & Input */
 .form-input {
   width: 100%;
@@ -47,6 +51,7 @@ header h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
   outline: none;
+
 }
 
 .form-input-filter {
